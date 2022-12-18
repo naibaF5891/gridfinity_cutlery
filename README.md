@@ -1,6 +1,6 @@
 Gridfinity Cutlery
 ===
-
+![Alt text](/IMG20221218101821.jpg?raw=true "Cutlery")
 ## Information
 - Title:  `Gridfinity Cutlery`
 - Printables: [https://www.printables.com/model/342919-gritfinity-cutlery]()
